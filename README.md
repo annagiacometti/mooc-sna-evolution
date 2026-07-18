@@ -21,7 +21,7 @@ The analysis was performed using **Python 3** and the following core data scienc
 * **Pandas & NumPy** – Data ingestion, cleaning, and structural alignment.
 * **Matplotlib & Seaborn** – Graph visualizations and regression plots.
 
-## 🚀 How to Run the Analysis
+## How to Run the Analysis
 1. Open the notebook located in the `/notebooks` folder.
 2. Click on the **"Open in Colab"** badge (or upload the `.ipynb` directly to Google Colab).
 3. Ensure the initial cells properly pull the four essential source datasets (Edgelists and Nodelists) hosted on Google Drive.
