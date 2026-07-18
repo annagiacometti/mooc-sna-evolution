@@ -2,10 +2,10 @@
 
 This repository contains the replication code, data structures, and the final research paper evaluating the social dynamics and structural evolutions between two consecutive editions of the MOOC-Ed course *Digital Learning and Teaching* (**DLT1** and **DLT2**).
 
-## 📌 Research Question
+## Research Question
 Given the evolution of the MOOC-Ed DLT course design between DLT1 and DLT2, to what extent do the participants' profile characteristics (**Professional Role**, **Experience**, and **Gender**) associate with their network dynamics (**Participation** and **Centrality**), and how does this association differ between the two editions?
 
-## 📂 Project Structure
+## Project Structure
 The repository is organized as follows:
 * `/notebooks`: Contains the Google Colab Python notebook (`ENG_Giacometti_Analisi_SNA_MOOC.ipynb`) covering the entire computational pipeline:
   * Exploratory Data Analysis (EDA)
@@ -14,7 +14,7 @@ The repository is organized as follows:
   * Statistical Visualizations
 * `/paper`: Contains the complete research paper (`Giacometti_2026_SNA_MOOC.pdf`) detailing the theoretical background, methodology, structural findings, and socio-educational implications.
 
-## 🛠️ Tech Stack & Libraries
+## Tech Stack & Libraries
 The analysis was performed using **Python 3** and the following core data science libraries:
 * **NetworkX** – Network creation, topology analysis, and centrality metrics.
 * **Statsmodels** – OLS Regression modeling and statistical inference.
