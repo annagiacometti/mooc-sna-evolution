@@ -1,4 +1,5 @@
 # Comparative Social Network Analysis (SNA) of MOOC-Ed Dynamics
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21311134.svg)](https://doi.org/10.5281/zenodo.21311134)
 
 This repository contains the replication code, data structures, and the final research paper evaluating the social dynamics and structural evolutions between two consecutive editions of the MOOC-Ed course *Digital Learning and Teaching* (**DLT1** and **DLT2**).
 
